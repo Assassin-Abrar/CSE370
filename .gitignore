@@ -1,0 +1,5 @@
+.claude/settings.local.json
+uploads/cv/*
+uploads/logos/*
+!uploads/cv/.gitkeep
+!uploads/logos/.gitkeep
